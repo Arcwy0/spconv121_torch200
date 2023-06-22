@@ -23,6 +23,7 @@
 #include <pybind11/numpy.h>
 #include <pybind11/stl.h>
 #include <vector>
+#include <iostream>
 namespace spconv {
 namespace py = pybind11;
 using namespace pybind11::literals;
